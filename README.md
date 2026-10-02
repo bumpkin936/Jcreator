@@ -217,4 +217,4 @@ JCreator is offered as a full free version with all features and updates include
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-02 15:27:44 UTC
+**Last updated:** 2026-10-02 20:24:39 UTC
